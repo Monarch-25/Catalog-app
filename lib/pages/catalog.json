@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sanskar Singh",
+            "desc": "CR - Smile in Pain",
+            "phone": 8989895650,
+            "color": "#33505a",
+            "image": "https://scontent.fdel11-1.fna.fbcdn.net/v/t1.6435-9/91369075_101722974825069_2142203127443488768_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=A9MlB0tFq_4AX8nKP8n&tn=NAGMsvQpkyrWeqwK&_nc_ht=scontent.fdel11-1.fna&oh=b3d7e1037006715ff9143f495de2e7b7&oe=60E0F9F9"
+        },
+        {
+            "id": 2,
+            "name": "Abhinav Singh Bais",
+            "desc": "Mood",
+            "phone": 9846845335,
+            "color": "#00ac51",
+            "image": "https://media-exp3.licdn.com/dms/image/C4E03AQGbWYH7-XDxOA/profile-displayphoto-shrink_400_400/0/1607618888742?e=1630540800&v=beta&t=zVpV46wZmc4c18mbJaJ4pL3DDjomdr7GZblDqbYjJJs"
+        },
+        {
+            "id": 3,
+            "name": "Muskaan Rawat",
+            "desc": "DFZ and assignments",
+            "phone": 8979826321,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+        },
+        {
+            "id": 4,
+            "name": "Ishaan Mishra",
+            "desc": "Heavy Comder",
+            "phone": 8948631218,
+            "color": "#544ee4",
+            "image": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F124680733_1000737120413598_927563758475826485_n.jpg%3Fccb%3D11-4%26oh%3Dbcb2d271ce472fe90a994b64e6cc3af2%26oe%3D60E06234&t=l&u=919811234509%40c.us&i=1605367527&n=zF57tpX%2FH%2FkTZQ6wZ4wF9DjWWPluO3BI3BbkQLu4HvY%3D"
+        },
+        {
+            "id": 5,
+            "name": "Aman Soni",
+            "desc": "---leave him",
+            "phone": 8486653288,
+            "color": "#e3e4e9",
+            "image": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F165935940_820291105227094_3329368499062894757_n.jpg%3Fccb%3D11-4%26oh%3D08cdeeb397bb754db86056efe50ec3d9%26oe%3D60E0EB9A&t=l&u=916351823851%40c.us&i=1616923852&n=IhSUjzMXk%2Fa4Wg6314%2BYjvo6fl2KYI7HB47QUQXRLBs%3D"
+        },
+        {
+            "id": 6,
+            "name": "Shuchi Bhatt",
+            "desc": "Glucose",
+            "phone": 887848465,
+            "color": "#f73984",
+            "image": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F170903360_3991272267599807_3076539380435389907_n.jpg%3Fccb%3D11-4%26oh%3D2debe0f071b7ffe9cd39b90649205e1f%26oe%3D60E10C55&t=l&u=918160193305%40c.us&i=1617777505&n=iPbmwRZ%2Fj%2FJfcRgjCk9FHp0phqk2aozz6LlsAv7MieI%3D"
+        },
+        {
+            "id": 7,
+            "name": "Gunika Tangri",
+            "desc": "Aao Bizness kare",
+            "phone": 8798746556,
+            "color": "#1c1c1c",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
+        },
+        {
+            "id": 8,
+            "name": "Lovkush Chauhan",
+            "desc": "Aaj Gaadi tera bhai chalaega",
+            "phone": 8787212124,
+            "color": "#7c95eb",
+            "image": "https://scontent.fdel11-2.fna.fbcdn.net/v/t1.6435-9/153703859_190914856146213_7791150251891043220_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=uXlFIzXjXNgAX_rbmhx&tn=NAGMsvQpkyrWeqwK&_nc_ht=scontent.fdel11-2.fna&oh=34fec55db3e73bdc9a753787968dd7d2&oe=60E0A621"
+        }
+    ]
+}
